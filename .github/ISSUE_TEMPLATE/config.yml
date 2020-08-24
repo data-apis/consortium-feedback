@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Bug Report
+    url: https://github.com/data-apis/consortium-feedback/issues
+    about: Report a bug or concrete issue
+  - name: Ideas and Questions
+    url: https://github.com/data-apis/consortium-feedback/discussions
+    about: Start a discussion about any idea or question you have
